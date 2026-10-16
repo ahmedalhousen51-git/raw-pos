@@ -4,9 +4,9 @@
 
 ## التحميل
 من صفحة **[Releases](../../releases/latest)**:
-- ويندوز: `RAW-POS-Setup-1.0.2.exe` (تسطيب) أو `RAW-POS-Portable-1.0.2.exe` (من غير تسطيب)
-- ماك M1/M2/M3/M4: `RAW-POS-1.0.2-Mac-Apple-Silicon.dmg`
-- ماك Intel: `RAW-POS-1.0.2-Mac-Intel.dmg`
+- ويندوز: `RAW-POS-Setup-1.0.3.exe` (تسطيب) أو `RAW-POS-Portable-1.0.3.exe` (من غير تسطيب)
+- ماك M1/M2/M3/M4: `RAW-POS-1.0.3-Mac-Apple-Silicon.dmg`
+- ماك Intel: `RAW-POS-1.0.3-Mac-Intel.dmg`
 
 أول مرة لو ظهرت رسالة "Windows protected your PC": اضغط **More info** ثم **Run anyway**.
 
